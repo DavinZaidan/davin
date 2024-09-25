@@ -1,0 +1,10 @@
+body{
+  background-color: #2a2a2a;
+}
+i.fa-brands{
+  color: #fff;
+  font-size: 48px;
+  margin-left: 10px;
+  animation: beat 2s infinite;
+  animation-timing-function: linear;
+}
